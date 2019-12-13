@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: For Businesses
 ---
 
 ## Ultra - Super fast Jekyll theme 
